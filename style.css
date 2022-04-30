@@ -1,0 +1,86 @@
+h1{
+    color: #000;
+    font-style: normal;
+    font-weight: bold;
+    padding: 20px;
+    font-size: 45px;
+    padding-bottom: 1px;
+    
+    font-family: Poppins;
+    }
+    .container{
+    margin-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-color: black;
+    border-top: 1px ;
+    border-bottom: 1px ;
+    }
+    p{
+      font-size: 22px;
+      font-family: sans-serif;
+      color: #0E8BCE;
+      padding-top: 1px;
+      padding-left: 19px;
+      padding-right: 5px;
+    }
+    .contact{
+    color: #0E8BCE;
+    text-decoration-color: #000;
+    font-family: Poppins;
+    font-size: 15px;
+    padding: 10px;
+    margin: 0 40px 0 40px;
+    border-radius: 20px;
+    border-color: #0E8BCE;
+    background: transparent;
+    }
+    .contact:hover{
+        background-color: #E7F3FF;
+    }
+    .flex-container{
+      display: flex;
+      flex-direction: row;
+      padding-left: 20px;
+      padding-right: 20px;
+      
+    }
+    #mint{
+      width: 800px;
+      height: 600px;
+      border: 10px solid #0E8BCE;
+      box-shadow: 5px;
+      border-radius: 25px;
+      border-color: #0E8BCE;
+      margin: 0px 100px 0px 100px;
+    }
+    
+    .Logo2{
+    height: 300px;
+    }
+    .h-8{
+      height: 2rem;
+      width: 2rem;
+    }
+    .container2{
+        padding:0px 10px 0px 20px ;
+        margin: 0 10px 0 80px;
+    }
+    .p-10{
+        padding: 0 5px 0 5px ;
+    }
+    .p-20{
+        padding: 0 20px 0 20px;
+    }
+    .ml-200{
+        margin-left: 200px;
+    }
+    .mr-20{
+        margin-right: 20px;
+    }
+    .hover-img{
+        margin: 70px 0 0 15px;
+    }
+    .container1:hover{
+        background-image: url('images/my-image.png');
+    }
